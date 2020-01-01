@@ -42,7 +42,7 @@ homebrew_installed_packages:
   # - pv
   - wget
   # - wrk
-  # - mas
+  - mas #used to search the app store of id by name
   # - packer
   # - terraform
 
